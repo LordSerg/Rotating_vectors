@@ -1,0 +1,39 @@
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\Rotating_vectors.exe.config
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\Rotating_vectors.exe
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\Rotating_vectors.pdb
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\OpenTK.Compatibility.dll
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\OpenTK.dll
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\OpenTK.GLControl.dll
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\OpenTK.pdb
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\OpenTK.xml
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\OpenTK.GLControl.xml
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.csprojResolveAssemblyReference.cache
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.Form1.resources
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.Properties.Resources.resources
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.csproj.GenerateResource.Cache
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.exe
+D:\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.pdb
+d:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\Rotating_vectors.exe.config
+d:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.exe
+d:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.pdb
+D:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\Rotating_vectors.exe
+D:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\Rotating_vectors.pdb
+D:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\OpenTK.pdb
+D:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\OpenTK.xml
+D:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\bin\Debug\OpenTK.GLControl.xml
+D:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.csprojAssemblyReference.cache
+D:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.Form1.resources
+D:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.Properties.Resources.resources
+D:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.csproj.GenerateResource.cache
+D:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.csproj.CoreCompileInputs.cache
+D:\My_projects\Векторная геометрия\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.csproj.CopyComplete
+D:\_My_Math\Rotating_vectors\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.csprojAssemblyReference.cache
+D:\_My_Math\Rotating_vectors\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.Form1.resources
+D:\_My_Math\Rotating_vectors\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.Properties.Resources.resources
+D:\_My_Math\Rotating_vectors\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.csproj.GenerateResource.cache
+D:\_My_Math\Rotating_vectors\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.csproj.CoreCompileInputs.cache
+D:\_My_Math\Rotating_vectors\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.exe
+D:\_My_Math\Rotating_vectors\Rotating_vectors\Rotating_vectors\obj\Debug\Rotating_vectors.pdb
+D:\_My_Math\Rotating_vectors\Rotating_vectors\Rotating_vectors\bin\Debug\Rotating_vectors.exe.config
+D:\_My_Math\Rotating_vectors\Rotating_vectors\Rotating_vectors\bin\Debug\Rotating_vectors.exe
+D:\_My_Math\Rotating_vectors\Rotating_vectors\Rotating_vectors\bin\Debug\Rotating_vectors.pdb
